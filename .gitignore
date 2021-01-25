@@ -1,0 +1,5 @@
+.vscode/settings.json
+*.tfvars
+*/.terraform
+*.ps1
+*.sh
